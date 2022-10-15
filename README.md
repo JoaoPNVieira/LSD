@@ -1,4 +1,5 @@
-# LSD - Laboratório de Sistemas Digitais - Universidade de Aveiro
+# LSD - Laboratório de Sistemas Digitais 
+# Universidade de Aveiro
 ___________________________________________________________________________________________________________________________________________________________
 Português: 
 Laboratório de Sistemas Digitais - Universidade de Aveiro
