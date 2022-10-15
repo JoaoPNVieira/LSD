@@ -10,14 +10,13 @@
                 ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒███                 
                 █████████▒▒▒▒█████████                 
                  ████████████████████   
-
+                Universidade de Aveiro
 # LSD - Laboratório de Sistemas Digitais
-Universidade de Aveiro
 ___________________________________________________________________________________________________________________________________________________________
                 
 
-# Departamento de Eletrónica, Telecomunicações e Informática
-# João Pedro Nunes Vieira - NºMec.:50458
+Departamento de Eletrónica, Telecomunicações e Informática
+Aluno: João Pedro Nunes Vieira - NºMec.:50458
 
 Português: 
 Laboratório de Sistemas Digitais - Universidade de Aveiro
